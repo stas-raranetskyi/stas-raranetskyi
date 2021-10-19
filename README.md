@@ -31,6 +31,7 @@ Experienced Front End developer with more than 7 years of work in the IT industr
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 
+
 ### Education:
 Yuriy Fedkovych Chernivtsi National University, Faculty of Mathematics and Informatics (2012-2018).
 
