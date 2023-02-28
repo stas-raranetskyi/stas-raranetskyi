@@ -2,7 +2,7 @@
 Head of Frontend Department
 
 ### Summary of Qualifications:
-Experienced Front End developer with more than 7 years of work in the IT industry.
+Front End developer with 8+ years of work in the IT industry, skilled in software development using React.js, Typescript, and Node.js technologies. I am experienced in working with large e-commerce enterprise applications and financial domains.
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
