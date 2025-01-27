@@ -127,9 +127,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/stas-raranetskyi/stas-raranetskyi/output/github-snake.svg" />
   </picture>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/stas-raranetskyi/stas-raranetskyi/output/snake.svg" alt="Snake animation" />
-
-###
