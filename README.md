@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tech stack:</p>
+<p align="left"># 💻 Tech Stack:</p>
 
 ###
 
@@ -118,6 +118,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/stas-raranetskyi/stas-raranetskyi/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stas-raranetskyi/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stas-raranetskyi/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/stas-raranetskyi/output/github-snake.svg" />
+</picture>
 
 ###
