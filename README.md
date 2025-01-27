@@ -2,9 +2,11 @@
 
 ###
 
-<h3> 💻 Tech Stack:</h3>
+<h3>💻 Tech Stack:</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -88,6 +90,12 @@
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
 ###
@@ -118,10 +126,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stas-raranetskyi/stas-raranetskyi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stas-raranetskyi/stas-raranetskyi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/stas-raranetskyi/stas-raranetskyi/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/stas-raranetskyi/stas-raranetskyi/output/snake.svg" alt="Snake animation" />
 
 ###
