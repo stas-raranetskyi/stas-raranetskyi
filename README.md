@@ -117,3 +117,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/stas-raranetskyi/stas-raranetskyi/output/snake.svg" alt="Snake animation" />
+
+###
