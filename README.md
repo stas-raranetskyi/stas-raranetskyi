@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Stas and I'm a full-stack engineer with more than 10 years of experience in web development</h2>
+<h2>Hi 👋! My name is Stas and I'm a full-stack engineer with more than 10 years of experience in web development</h2>
 
 ###
 
-<p align="left"># 💻 Tech Stack:</p>
+<h3># 💻 Tech Stack:</h3>
 
 ###
 
