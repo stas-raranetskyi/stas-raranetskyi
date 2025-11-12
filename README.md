@@ -1,4 +1,4 @@
-<h2>Hi 👋! My name is Stas and I'm a full-stack engineer with more than 10 years of experience in web development</h2>
+<h2>👋 Hi! I’m Stas — a Senior Software Engineer with over a decade of experience building modern web and mobile applications.</h2>
 
 ###
 
